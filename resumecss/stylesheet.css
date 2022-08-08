@@ -1,0 +1,37 @@
+*{
+    color: darkkhaki;
+}
+body{
+    background-image: url('surya.gif');
+    background-size: cover;
+}
+
+h2{
+    color: darkkhaki;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    color: blueviolet;
+    font-size: large;
+}
+li{
+    color: darkviolet;
+    font-size: larger;
+    font-style: italic;
+}
+th {
+    color: chartreuse;
+    font-size: larger;
+}
+h1{
+    color: mediumblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+
+td{
+    color: violet;
+}
+.gf{
+    background-color:black;
+}
